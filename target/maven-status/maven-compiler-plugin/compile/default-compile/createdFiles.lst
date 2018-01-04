@@ -1,6 +1,7 @@
-com\chabed\spring\thymeleaf\config\AllConfig.class
-com\chabed\spring\thymeleaf\controller\WelcomeController$1.class
-com\chabed\spring\thymeleaf\model\DataModel.class
-com\chabed\spring\thymeleaf\controller\WelcomeController.class
-com\chabed\spring\thymeleaf\app\Application.class
-com\chabed\spring\thymeleaf\config\CustomizationBean.class
+com\mpc\demo\entity\Student.class
+com\mpc\demo\entity\Teacher.class
+com\mpc\demo\controller\WelcomeController.class
+com\mpc\demo\repo\StudentRepository.class
+com\mpc\demo\config\DatabaseConfiguration.class
+com\mpc\demo\entity\Admission.class
+com\mpc\demo\Application.class

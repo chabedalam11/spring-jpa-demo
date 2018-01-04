@@ -1,5 +1,7 @@
-E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\chabed\spring\thymeleaf\config\AllConfig.java
-E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\chabed\spring\thymeleaf\controller\WelcomeController.java
-E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\chabed\spring\thymeleaf\model\DataModel.java
-E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\chabed\spring\thymeleaf\app\Application.java
-E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\chabed\spring\thymeleaf\config\CustomizationBean.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\entity\Teacher.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\repo\StudentRepository.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\config\DatabaseConfiguration.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\Application.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\controller\WelcomeController.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\entity\Admission.java
+E:\sts_workspace\test_code_workspace\spring-jpa-demo\src\main\java\com\mpc\demo\entity\Student.java
