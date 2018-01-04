@@ -21,6 +21,7 @@ public class DatabaseConfiguration {
         dataSource.setUsername("root");//change userid
         dataSource.setPassword("");//change pwd
         return dataSource;
+        
     }
 	
 	
