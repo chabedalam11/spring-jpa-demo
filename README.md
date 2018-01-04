@@ -2,14 +2,20 @@
 
 How to run project
 
-1. Go to working directory
+1.Create a Mysql Schema name "spring"
 
-2. For update maven project ==  $ mvn dependency:tree
+2. Change DB credentials in com.mpc.demo.config.DatabaseConfiguration Class
 
-3. Start the Spring Boot web app == $ mvn spring-boot:run   
+3. Open application.properties file and comment {spring.jpa.hibernate.ddl-auto = update} this line by adding #
+(i.e #spring.jpa.hibernate.ddl-auto = update) and uncommet {#spring.jpa.hibernate.ddl-auto = create} this line by (i.e : spring.jpa.hibernate.ddl-auto = create)removing #
 
-4.  Package the project to create an executable JAR file  == $ mvn clean package   
+4. After first time run complete uncomment {#spring.jpa.hibernate.ddl-auto = update} this line by removing #
+(i.e spring.jpa.hibernate.ddl-auto = update) and uncommet {spring.jpa.hibernate.ddl-auto = create} this line by (i.e : #spring.jpa.hibernate.ddl-auto = create)adding #
 
-5. For run jar  ==  $ java -jar target/spring-boot-web-thymeleaf-1.0.jar     
+5. Go to Project directory
 
-Project Access ==  http://localhost:9009/
+6.  for mvn clean build  == $ mvn clean install   
+
+7. For run jar  ==  java -jar target/spring-jap-demo-1.0.jar   
+
+Project Access url ==  http://localhost:9070/
