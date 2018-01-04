@@ -1,0 +1,6 @@
+com\chabed\spring\thymeleaf\config\AllConfig.class
+com\chabed\spring\thymeleaf\controller\WelcomeController$1.class
+com\chabed\spring\thymeleaf\model\DataModel.class
+com\chabed\spring\thymeleaf\controller\WelcomeController.class
+com\chabed\spring\thymeleaf\app\Application.class
+com\chabed\spring\thymeleaf\config\CustomizationBean.class
